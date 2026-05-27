@@ -30,7 +30,7 @@
     <Content Include="cs2mapview.ico" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="log4net" Version="2.0.15" />
+    <PackageReference Include="log4net" Version="3.3.1" />
     <PackageReference Include="SkiaSharp" Version="2.88.7" />
     <PackageReference Include="SkiaSharp.Views" Version="2.88.7" />
   </ItemGroup>
